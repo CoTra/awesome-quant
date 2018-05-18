@@ -34,7 +34,8 @@
 * [数库金融数据和深度分析API服务](http://developer.chinascope.com/) - 收费
 * [Historical Data Sources](http://quantpedia.com/Links/HistoricalData) - 一个数据源索引
 * [Python通达信数据接口](https://github.com/rainx/pytdx) - 免费通达信数据源
-
+* [fooltrader](https://github.com/foolcage/fooltrader) - 大数据开源量化项目,自己维护了一个爬取整合的全市场数据源
+* [JoinQuant/jqdatasdk](https://github.com/JoinQuant/jqdatasdk) - jqdatasdk是提供给用户获取聚宽金融数据的SDK
 
 ## 数据库
 
@@ -57,6 +58,7 @@
 * [BotVS - 首家支持传统期货与股票证券与数字货币的量化平台](https://www.botvs.com/)
 * [Tradeblazer(TB) - 交易开拓者](http://www.tradeblazer.net/) - 期货程序化交易软件平台
 * [MetaTrader 5](https://www.metatrader5.com/en) - Multi-Asset Trading Platform
+* [BigQuant](https://bigquant.com) - 专注量化投资的人工智能/机器学习平台
 
 ## 策略
 * [JoinQuant聚宽: 量化学习资料、经典交易策略、Python入门 - 雪球](https://xueqiu.com/8287840120/65009358)
@@ -87,7 +89,7 @@
 * [easytrader](https://github.com/shidenggui/easytrader) - 提供券商华泰/佣金宝/银河/广发/雪球的基金、股票自动程序化交易，量化交易组件
 * [实盘易](http://www.iguuu.com/e)（[SDK](https://github.com/sinall/ShiPanE-Python-SDK)）  - 管理通达信等交易终端，提供基于 HTTP 协议的 RESTFul API；各大在线量化交易平台实盘解决方案
 * [IB API | Interactive Brokers](https://www.interactivebrokers.com.hk/cn/index.php?f=5234&ns=T) - 盈透证券的交易API
-
+* [FutunnOpen/futuquant](https://github.com/FutunnOpen/futuquant) - 富途量化平台 API
 ## 编程
 
 ### Python
